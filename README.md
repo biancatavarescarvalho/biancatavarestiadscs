@@ -33,7 +33,9 @@ Sou Estudante de Análise e Desenvolvimento De Sistemas apaixonado por criar sol
 
 
 ### 📫 Como me encontrar
-[![LinkedIn] https://www.linkedin.com/in/bianca-tavares-3b06903b5/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BVQ87wEiUTLGZVQ%2BZ2KmlAw%3D%3D
-[![E-mail](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:seuemail@email.com)](biancatavares.tiadscs@gmail.com)
-[![Dev.to](https://img.shields.io/badge/-Dev.to-0A0A0A?style=flat-square&logo=dev.to&logoColor=white&link=https://dev.to/seuperfil)](https://dev.to/bianca_tavares)
 
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/seuperfil)](https://www.linkedin.com/in/bianca-tavares-3b06903b5?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+
+[![E-mail](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:seuemail@email.com)](biancatavares.tiadscs@gmail.com)
+
+[![Dev.to](https://img.shields.io/badge/-Dev.to-0A0A0A?style=flat-square&logo=dev.to&logoColor=white&link=https://dev.to/seuperfil)](https://dev.to/bianca_tavares)
