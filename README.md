@@ -25,7 +25,7 @@ Sou Estudante de Análise e Desenvolvimento De Sistemas apaixonado por criar sol
 ### 🚀 Projetos em Destaque
 
 *  [ Projeto exercícios Python 1](https://github.com/biancatavarestiadscs-jpg/Projeto-python.git) . - Exercícios em Python voltados ao desenvolvimento de lógica de programação e fundamentos da linguagem .
-
+  
 *  [ Protótipo plataforma de Streaming 2](https://www.figma.com/proto/qHulN9C6qTfs43mLc942jX/Sem-t%C3%ADtulo?node-id=1-2&p=f&t=sS0pdVy0B2NXDnPJ-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A2&show-proto-sidebar=1) - Protótipo mobile média fidelidade no Figma .
 
 *  [ Protótipo website Petshop 3]( https://www.figma.com/proto/3EJnOqZANAKayMCLboTpTK/Petshop?node-id=3102-2871&t=BmMhbzVlJ5Kgu6Gi-1&scaling=scale-down&content-scaling=fixed&page-id=3102%3A2864&starting-point-node-id=3102%3A2871&show-proto-sidebar=1) - Protótipo website média fidelidade no Figma .
