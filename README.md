@@ -34,7 +34,7 @@ Sou Estudante de Análise e Desenvolvimento De Sistemas apaixonado por criar sol
 
 ### 📫 Como me encontrar
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/seuperfil)](https://www.linkedin.com/in/biancatavarescarvalho_source=share_via&utm_content=profile&utm_medium=member_android)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/www.linkedin.com/in/biancatavarescarvalho)](https://linkedin.com/in/www.linkedin.com/in/biancatavarescarvalho)
 
 [![E-mail](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:seuemail@email.com)](biancatavares.tiadscs@gmail.com)
 
