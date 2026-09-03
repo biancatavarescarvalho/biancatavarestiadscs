@@ -10,15 +10,12 @@ Sou Estudante de Análise e Desenvolvimento De Sistemas apaixonado por criar sol
 
 
 
-### 🛠️ Linguagens e Ferramentas
+### 🛠️ 📚 Linguagens e Ferramentas que estou aprendendo 
 
-*  **Front-end:** HTML, CSS, JavaScript, React
-
-*  **Back-end:** Python, Node.js
-
-*  **Design:** Figma
-
-*  **Outros:** Git, Metodologias Ágeis
+- **Programação:** Lógica de programação, Python e C
+- **Front-end:** HTML e CSS
+- **Inteligência Artificial:** Engenharia de Prompts e Ética na IA
+- **Design e Prototipação:** Figma
 
 
 
