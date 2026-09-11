@@ -73,6 +73,7 @@ Gosto de aprender na prática, criar projetos e colocar em ação os conheciment
 - 🗄️ Banco de Dados
 - 💻 Linguagem C
 - 🐍 Python e lógica de programação
+- Em breve, pretendo criar meus primeiros projetos utilizando **HTML, CSS e JavaScript** para colocar esses conhecimentos em prática.
 
 ---
 
