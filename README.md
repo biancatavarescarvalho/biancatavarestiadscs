@@ -6,7 +6,7 @@
 
 ### 👨‍💻 Quem sou eu
 
-Sou Estudante de Análise e Desenvolvimento De Sistemas apaixonado por criar soluções inovadoras e resolver problemas complexos. Atualmente, estou focado em aprimorar minhas habilidades em desenvolvimento de software e estou sempre em busca de novos desafios!
+Sou Estudante de Análise e Desenvolvimento De Sistemas apaixonado por criar soluções inovadoras e resolver problemas complexos. Atualmente, estou focado em aprimorar minhas habilidades em desenvolvimento de software com foco em desenvolvimento Front-end e estou sempre em busca de novos desafios!
 
 
 
