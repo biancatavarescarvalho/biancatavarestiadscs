@@ -102,7 +102,7 @@ Jogo desenvolvido em Python durante meus estudos de programação.
 - Comparações com `==`
 - Cores no terminal
 
-[![Ver projeto no GitHub](https://img.shields.io/badge/Ver%20projeto-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/biancatavarestiadscs/Jogo-adivinha-o-python)
+[![Ver projeto no GitHub](https://img.shields.io/badge/Ver%20projeto-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/biancatavarescarvalho/jogo-adivinha-o-python)
 
 ---
 
