@@ -78,7 +78,7 @@ Gosto de aprender na prática, criar projetos e colocar em ação os conheciment
 
 ## 🎯 Meu foco
 
-Meu objetivo é conquistar minha **primeira oportunidade na área de tecnologia**, com foco em **Desenvolvimento Front-end**.
+Meu objetivo é conquistar minha **primeira oportunidade na área de tecnologia**.
 
 Quero continuar desenvolvendo minhas habilidades, aprender com novos desafios e transformar meus estudos em projetos práticos.
 
