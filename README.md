@@ -2,7 +2,7 @@
 
 🎓 Estudante de **Análise e Desenvolvimento de Sistemas (ADS)**  
 💻 Foco em **Desenvolvimento Front-end**  
-🚀 Construindo minha base em programação e desenvolvimento web
+🚀 Aprendendo e praticando programação e desenvolvimento web
 
 ---
 
@@ -10,17 +10,20 @@
 
 Sou estudante de Análise e Desenvolvimento de Sistemas e estou construindo minha trajetória na área de tecnologia.
 
-Atualmente, meu principal foco é **Desenvolvimento Front-end**, estudando e praticando tecnologias como **HTML, CSS e JavaScript**.
+Atualmente, meu foco é **Desenvolvimento Front-end**, estudando e praticando **HTML, CSS e JavaScript**.
 
-Também estou desenvolvendo minha base em **lógica de programação, Python, C e Banco de Dados**, buscando entender cada vez melhor como as diferentes áreas do desenvolvimento de software se conectam.
+Também estou desenvolvendo minha base em **lógica de programação, Python, C e Banco de Dados**.
 
-Gosto de aprender na prática, criar pequenos projetos e transformar o que estudo em aplicações e soluções.
+Tenho conhecimentos iniciais em **Figma, UX e usabilidade**, que complementam meu interesse por desenvolvimento Front-end.
+
+Gosto de aprender na prática, criar projetos e colocar em ação os conhecimentos que venho adquirindo durante a faculdade e meus estudos.
 
 ---
 
 ## 💻 Tecnologias e conhecimentos
 
 ### 🌐 Desenvolvimento Web
+
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js" />
 </p>
@@ -31,6 +34,7 @@ Gosto de aprender na prática, criar pequenos projetos e transformar o que estud
 - Desenvolvimento Front-end — foco principal
 
 ### 🧠 Programação
+
 <p>
   <img src="https://skillicons.dev/icons?i=python,c" />
 </p>
@@ -44,39 +48,47 @@ Gosto de aprender na prática, criar pequenos projetos e transformar o que estud
 - Fundamentos de Banco de Dados
 - Em aprendizado
 
+### 🎨 Design e UX
+
+<p>
+  <img src="https://skillicons.dev/icons?i=figma" />
+</p>
+
+- Figma — nível inicial
+- Prototipação
+- UX e usabilidade
+
 ### 🤖 Inteligência Artificial
 
 - Conceitos de Inteligência Artificial
 - Uso responsável de IA
-- Ética e uso consciente da IA
 
 ---
 
 ## 📚 O que estou aprendendo atualmente
 
-🚀 Desenvolvimento **Front-end**  
-🌐 HTML e CSS  
-⚡ JavaScript  
-🗄️ Banco de Dados  
-💻 Linguagem C  
-🐍 Python e lógica de programação  
-🤖 Inteligência Artificial e uso responsável
+- 🚀 Desenvolvimento Front-end
+- 🌐 HTML e CSS
+- ⚡ JavaScript
+- 🗄️ Banco de Dados
+- 💻 Linguagem C
+- 🐍 Python e lógica de programação
 
 ---
 
 ## 🎯 Meu foco
 
-Meu objetivo é conquistar minha **primeira oportunidade na área de tecnologia**, especialmente em posições relacionadas a **Desenvolvimento Front-end**.
+Meu objetivo é conquistar minha **primeira oportunidade na área de tecnologia**, com foco em **Desenvolvimento Front-end**.
 
-Estou buscando evoluir constantemente, fortalecer minha base técnica e transformar meus estudos em projetos práticos.
+Quero continuar desenvolvendo minhas habilidades, aprender com novos desafios e transformar meus estudos em projetos práticos.
 
 ---
 
-## 🚀 Projetos em destaque
+## 🚀 Projeto em destaque
 
 ### 🎮 Jogo da Adivinhação — Python
 
-Um jogo desenvolvido em Python utilizando conceitos básicos de programação.
+Jogo desenvolvido em Python durante meus estudos de programação.
 
 **Conceitos praticados:**
 
@@ -90,25 +102,37 @@ Um jogo desenvolvido em Python utilizando conceitos básicos de programação.
 - Comparações com `==`
 - Cores no terminal
 
-🔗 [Ver projeto no GitHub](https://github.com/biancatavarestiadscs/jogo-adivinha-o-python)
+<a href="https://github.com/biancatavarestiadscs/jogo-adivinha-o-python">
+  <img src="https://img.shields.io/badge/Ver%20projeto-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
 ---
 
 ## 📈 Minha evolução
 
-Estou no início da minha jornada como desenvolvedora e utilizo o GitHub para registrar minha evolução, compartilhar projetos e colocar em prática os conhecimentos adquiridos durante meus estudos.
+Estou no início da minha jornada na tecnologia e utilizo o GitHub para registrar meus estudos, compartilhar projetos e acompanhar minha evolução.
 
-Cada projeto representa uma oportunidade de aprender, testar novas ideias e melhorar minhas habilidades.
+Cada projeto é uma oportunidade para praticar, aprender algo novo e melhorar minhas habilidades.
 
 ---
 
 ## 📫 Como me encontrar
 
-📧 **E-mail:** biancatavares.tiadscs@gmail.com
+<p align="left">
 
-💼 **LinkedIn:** [Meu LinkedIn](https://www.linkedin.com/in/biancatavarescarvalho/)
+<a href="https://www.linkedin.com/in/biancatavarescarvalho/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
-📝 **Dev.to:** [@bianca_tavares](https://dev.to/bianca_tavares)
+<a href="mailto:biancatavares.tiadscs@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contato-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://dev.to/bianca_tavares" target="_blank">
+  <img src="https://img.shields.io/badge/Dev.to-Perfil-000000?style=for-the-badge&logo=devdotto&logoColor=white" />
+</a>
+
+</p>
 
 ---
 
