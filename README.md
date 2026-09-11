@@ -121,15 +121,15 @@ Cada projeto é uma oportunidade para praticar, aprender algo novo e melhorar mi
 <p align="left">
 
 <a href="https://www.linkedin.com/in/biancatavarescarvalho/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=flat&logo=linkedin&logoColor=white" />
 </a>
 
 <a href="mailto:biancatavares.tiadscs@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contato-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/Email-Contato-D14836?style=flat&logo=gmail&logoColor=white" />
 </a>
 
 <a href="https://dev.to/bianca_tavares" target="_blank">
-  <img src="https://img.shields.io/badge/Dev.to-Perfil-000000?style=for-the-badge&logo=devdotto&logoColor=white" />
+<img src="https://img.shields.io/badge/Dev.to-Perfil-000000?style=flat&logo=devdotto&logoColor=white" />
 </a>
 
 </p>
