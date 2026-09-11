@@ -90,7 +90,7 @@ Um jogo desenvolvido em Python utilizando conceitos básicos de programação.
 - Comparações com `==`
 - Cores no terminal
 
-🔗 [Ver projeto no GitHub](https://github.com/SEU-USUARIO/jogo-adivinha-o-python)
+🔗 [Ver projeto no GitHub](https://github.com/biancatavarestiadscs/jogo-adivinha-o-python)
 
 ---
 
