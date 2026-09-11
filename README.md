@@ -1,6 +1,6 @@
 # biancatavarestiadscs
 
-# Olá! Eu sou [Bianca Tavares Carvalho] 👋
+# Olá! Eu sou Bianca Tavares Carvalho 👋
 
 
 
