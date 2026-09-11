@@ -102,9 +102,7 @@ Jogo desenvolvido em Python durante meus estudos de programação.
 - Comparações com `==`
 - Cores no terminal
 
-<a href="https://github.com/biancatavarestiadscs/jogo-adivinha-o-python">
-  <img src="https://img.shields.io/badge/Ver%20projeto-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+[![Ver projeto no GitHub](https://img.shields.io/badge/Ver%20projeto-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/biancatavarestiadscs/jogo-adivinha-o-python)
 
 ---
 
@@ -118,21 +116,11 @@ Cada projeto é uma oportunidade para praticar, aprender algo novo e melhorar mi
 
 ## 📫 Como me encontrar
 
-<p align="left">
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/biancatavarescarvalho/)
 
-<a href="https://www.linkedin.com/in/biancatavarescarvalho/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=flat&logo=linkedin&logoColor=white" />
-</a>
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:biancatavares.tiadscs@gmail.com)
 
-<a href="mailto:biancatavares.tiadscs@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contato-D14836?style=flat&logo=gmail&logoColor=white" />
-</a>
-
-<a href="https://dev.to/bianca_tavares" target="_blank">
-<img src="https://img.shields.io/badge/Dev.to-Perfil-000000?style=flat&logo=devdotto&logoColor=white" />
-</a>
-
-</p>
+[![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=flat&logo=devdotto&logoColor=white)](https://dev.to/bianca_tavares)
 
 ---
 
