@@ -1,7 +1,7 @@
 # 👋 Olá! Eu sou Bianca Tavares Carvalho
 
 🎓 Estudante de **Análise e Desenvolvimento de Sistemas (ADS)**  
-💻 Foco em **Desenvolvimento Front-end**  
+💻 Foco em **Desenvolvimento Full Stack**  
 🚀 Aprendendo e praticando programação e desenvolvimento web
 
 ---
@@ -11,6 +11,8 @@
 Sou estudante de Análise e Desenvolvimento de Sistemas e estou construindo minha trajetória na área de tecnologia.
 
 Atualmente, meu foco é **Desenvolvimento Front-end**, estudando e praticando **HTML, CSS e JavaScript**.
+
+Interesse em evoluir para **Desenvolvimento Back-end**.
 
 Também estou desenvolvendo minha base em **lógica de programação, Python, C e Banco de Dados**.
 
