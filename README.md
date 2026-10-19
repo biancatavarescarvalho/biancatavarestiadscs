@@ -32,8 +32,8 @@ Gosto de aprender na prática, criar projetos e colocar em ação os conheciment
 
 - HTML — em aprendizado
 - CSS — em aprendizado
-- JavaScript — iniciando os estudos
-- Desenvolvimento Front-end — foco principal
+- JavaScript — em aprendizado
+- Desenvolvimento Web — foco principal
 
 ### 🧠 Programação
 
@@ -80,8 +80,6 @@ Gosto de aprender na prática, criar projetos e colocar em ação os conheciment
 ---
 
 ## 🎯 Meu foco
-
-Meu objetivo é conquistar minha **primeira oportunidade na área de tecnologia**.
 
 Quero continuar desenvolvendo minhas habilidades, aprender com novos desafios e transformar meus estudos em projetos práticos.
 
