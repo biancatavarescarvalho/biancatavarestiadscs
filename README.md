@@ -33,7 +33,6 @@ Gosto de aprender na prática, criar projetos e colocar em ação os conheciment
 - HTML — em aprendizado
 - CSS — em aprendizado
 - JavaScript — em aprendizado
-- Desenvolvimento Web — foco principal
 
 ### 🧠 Programação
 
